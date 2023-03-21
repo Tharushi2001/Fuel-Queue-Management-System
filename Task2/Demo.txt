@@ -1,0 +1,91 @@
+
+ Customer 1-Full Name :  emptyempty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-Full Name :  SANDUNITUTU
+ Customer 2-Vehicle NO:6787
+ Customer2-Fuel:6787l
+ Customer 3-Full Name :  emptyempty
+ Customer 3-Vehicle NO:empty
+ Customer3-Fuel:emptyl
+ Customer 4-Full Name :  emptyempty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-Full Name :  emptyempty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-Full Name :  emptyempty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl
+ Customer 1-Full Name :  emptyempty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-Full Name :  KUSHLAPERERA
+ Customer 2-Vehicle NO:8987
+ Customer2-Fuel:8987l
+ Customer 3-Full Name :  emptyempty
+ Customer 3-Vehicle NO:empty
+ Customer3-Fuel:emptyl
+ Customer 4-Full Name :  emptyempty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-Full Name :  emptyempty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-Full Name :  emptyempty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl
+ Customer 1-Full Name :  emptyempty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-Full Name :  GDAHGDHAGSDHADYUWYEQIYEW
+ Customer 2-Vehicle NO:7890
+ Customer2-Fuel:7890l
+ Customer 3-Full Name :  emptyempty
+ Customer 3-Vehicle NO:empty
+ Customer3-Fuel:emptyl
+ Customer 4-Full Name :  emptyempty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-Full Name :  emptyempty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-Full Name :  emptyempty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl
+ Customer 1-Full Name :  emptyempty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-Full Name :  ISHANYUNAL
+ Customer 2-Vehicle NO:8909
+ Customer2-Fuel:8909l
+ Customer 3-Full Name :  emptyempty
+ Customer 3-Vehicle NO:empty
+ Customer3-Fuel:emptyl
+ Customer 4-Full Name :  emptyempty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-Full Name :  emptyempty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-Full Name :  emptyempty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl
+ Customer 1-Full Name :  emptyempty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-Full Name :  AJITHASHJH
+ Customer 2-Vehicle NO:yuiu
+ Customer2-Fuel:yuiul
+ Customer 3-Full Name :  emptyempty
+ Customer 3-Vehicle NO:empty
+ Customer3-Fuel:emptyl
+ Customer 4-Full Name :  emptyempty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-Full Name :  emptyempty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-Full Name :  emptyempty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl

@@ -1,0 +1,121 @@
+
+ Customer 1-First Name :  empty
+ Customer 1-Second Name :  empty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-First Name :  AJITH
+ Customer 2-Second Name :  PATHIRANA
+ Customer 2-Vehicle NO:6787
+ Customer2-Fuel:6787l
+ Customer 3-First Name :  YUHANSA
+ Customer 3-Second Name :  KITHMINI
+ Customer 3-Vehicle NO:7898
+ Customer3-Fuel:7898l
+ Customer 4-First Name :  empty
+ Customer 4-Second Name :  empty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-First Name :  empty
+ Customer 5-Second Name :  empty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-First Name :  empty
+ Customer 6-Second Name :  empty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl
+ Customer 1-First Name :  empty
+ Customer 1-Second Name :  empty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-First Name :  KALPANA
+ Customer 2-Second Name :  DEVINDI
+ Customer 2-Vehicle NO:6754
+ Customer2-Fuel:6754l
+ Customer 3-First Name :  NETHMI
+ Customer 3-Second Name :  SA
+ Customer 3-Vehicle NO:2134
+ Customer3-Fuel:2134l
+ Customer 4-First Name :  empty
+ Customer 4-Second Name :  empty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-First Name :  empty
+ Customer 5-Second Name :  empty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-First Name :  empty
+ Customer 6-Second Name :  empty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl
+ Customer 1-First Name :  empty
+ Customer 1-Second Name :  empty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-First Name :  KASUNI
+ Customer 2-Second Name :  NADEERA
+ Customer 2-Vehicle NO:6787
+ Customer2-Fuel:6787l
+ Customer 3-First Name :  FDSF
+ Customer 3-Second Name :  GHFH
+ Customer 3-Vehicle NO:50
+ Customer3-Fuel:50l
+ Customer 4-First Name :  empty
+ Customer 4-Second Name :  empty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-First Name :  empty
+ Customer 5-Second Name :  empty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-First Name :  empty
+ Customer 6-Second Name :  empty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl
+ Customer 1-First Name :  empty
+ Customer 1-Second Name :  empty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-First Name :  MONIKA
+ Customer 2-Second Name :  SDSD
+ Customer 2-Vehicle NO:5434
+ Customer2-Fuel:5434l
+ Customer 3-First Name :  empty
+ Customer 3-Second Name :  empty
+ Customer 3-Vehicle NO:empty
+ Customer3-Fuel:emptyl
+ Customer 4-First Name :  empty
+ Customer 4-Second Name :  empty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-First Name :  empty
+ Customer 5-Second Name :  empty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-First Name :  empty
+ Customer 6-Second Name :  empty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl
+ Customer 1-First Name :  empty
+ Customer 1-Second Name :  empty
+ Customer 1-Vehicle NO:empty
+ Customer1-Fuel:emptyl
+ Customer 2-First Name :  THAQRUKA
+ Customer 2-Second Name :  YENULA
+ Customer 2-Vehicle NO:6756
+ Customer2-Fuel:6756l
+ Customer 3-First Name :  empty
+ Customer 3-Second Name :  empty
+ Customer 3-Vehicle NO:empty
+ Customer3-Fuel:emptyl
+ Customer 4-First Name :  empty
+ Customer 4-Second Name :  empty
+ Customer 4-Vehicle NO:empty
+ Customer4-Fuel:emptyl
+ Customer 5-First Name :  empty
+ Customer 5-Second Name :  empty
+ Customer 5-Vehicle NO:empty
+ Customer5-Fuel:emptyl
+ Customer 6-First Name :  empty
+ Customer 6-Second Name :  empty
+ Customer 6-Vehicle NO:empty
+ Customer6-Fuel:emptyl
